@@ -7,7 +7,7 @@
 <img src="LDCT.png" alt="drawing" width="200"/>
 
 >Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space  
->**Yunni Qu**, David Yan, Eric  Xing, Fengbo Zheng, Jie Zhang, Liangliang Liu, Gongbo Liang
+>**Qu, Yunni**, et al.
 
 ### Projects
 
