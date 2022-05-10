@@ -5,6 +5,7 @@
 
 ### Papers
 >Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space
+>
 >**Yunni Qu**, David Yan, Eric  Xing, Fengbo Zheng, Jie Zhang, Liangliang Liu, Gongbo Liang
 
 ### Projects
@@ -14,6 +15,7 @@
 
 ### Awards
 >American Statistical Association DataFest @ University of Toronto 2022 
+>
 >Winner - Best Visualization
 
 ### Relevant Courses
