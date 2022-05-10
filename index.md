@@ -19,15 +19,17 @@ Winner - Best Visualization
 ### Relevant Courses
 (CS, Math, and Stats)
 >**300/400-Level:**
->>CSC343 Introduction to Databases (Mark Kazakevich)
->>CSC384 Introduction to Artificial Intelligence (Sheila Mcilraith)
->>STA450 Statistical Methods for Emerging Infectious Disease Management (Patrick Brown)
->>STA302 Data Analysis I - R (Katherine Daignault)
->>STA303 Data Analysis II - R (Liza Bolton)
->>STA314 Statistical Machine Learning - Python (Chris Maddison)
+>
+> - CSC343 Introduction to Databases (Mark Kazakevich)
+> - CSC384 Introduction to Artificial Intelligence (Sheila Mcilraith)
+> - STA450 Statistical Methods for Emerging Infectious Disease Management (Patrick Brown)
+> - STA302 Data Analysis I - R (Katherine Daignault)
+> - STA303 Data Analysis II - R (Liza Bolton)
+> - STA314 Statistical Machine Learning - Python (Chris Maddison)
 
 >**200 Level:**
->>CSC207 Software Design - Java (Lindsey Shorser)
+>
+> - CSC207 Software Design - Java (Lindsey Shorser)
 >>CSC236 Introduction to Theory of Computation (Francois Pitt)
 >>CSC263 Data Structures & Analysis (Michelle Craig)
 >>JSC270 Data Science I - Python (Anna Goldenberg)
