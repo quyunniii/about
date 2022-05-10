@@ -13,8 +13,7 @@
 
 
 ### Awards
->**American Statistical Association DataFest @ University of Toronto 2022**
->
+>**American Statistical Association DataFest @ University of Toronto 2022**  
 >**Winner** - Best Visualization
 
 ### Relevant Courses
