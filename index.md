@@ -1,25 +1,46 @@
-## Yunni Qu
 
-
-```
-[Link](url) and ![Image](src)
-```
 
 ### About
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quyunniii/yunni_qu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> I'm an Undergraduate student in the Data Science specialist program at the University of Toronto. My goal is to use methods in computer science to solve real world problems. My research interest lies in the intersection of Biomedical Imaging and Computer Vision.
 
 ### Papers
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space
+**Yunni Qu**, David Yan, Eric  Xing, Fengbo Zheng, Jie Zhang, Liangliang Liu, Gongbo Liang
 
 ### Projects
-Drug Prevention Game Data Analysis
+
 
 
 
 ### Awards
-American Statistical Association DataFest @ University of Toronto, May 2022 
+American Statistical Association DataFest @ University of Toronto 2022 
 Winner - Best Visualization
 
-### CS/Math Courses
+### Relevant Courses
+(CS, Math, and Stats)
+>**300/400-Level:**
+>>CSC343 Introduction to Databases (Mark Kazakevich)
+>>CSC384 Introduction to Artificial Intelligence (Sheila Mcilraith)
+>>STA450 Statistical Methods for Emerging Infectious Disease Management (Patrick Brown)
+>>STA302 Data Analysis I - R (Katherine Daignault)
+>>STA303 Data Analysis II - R (Liza Bolton)
+>>STA314 Statistical Machine Learning - Python (Chris Maddison)
+
+>**200 Level:**
+>>CSC207 Software Design - Java (Lindsey Shorser)
+>>CSC236 Introduction to Theory of Computation (Francois Pitt)
+>>CSC263 Data Structures & Analysis (Michelle Craig)
+>>JSC270 Data Science I - Python (Anna Goldenberg) 
+>>MAT237 Multivariable Calculus (Asif Zaman)
+>>MAT223 Linear Algebra I (Jason Seifken)
+>>STA215 Introduction to Applied Statistics (Katherine Davies)
+>>STA257 Probabilty and Statistics I (Katherine Daignault)
+>>STA261 Probabilty and Statistics II (Robert Zimmerman)
+
+>**100 Level:**
+>>CSC108 Introduction to Computer Programming - Python
+>>CSC148 Introduction to Computer Science - Python
+>>MAT137 Calculus I
+>>MAT138 Introduction to Proofs
+>>STA130 Introduction to Stats and Data Science - R
+
