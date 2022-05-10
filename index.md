@@ -4,7 +4,7 @@
 > I'm an Undergraduate student in the Data Science specialist program at the University of Toronto. My goal is to use methods in computer science to solve real world problems. My research interest lies in the intersection of Biomedical Imaging and Computer Vision.
 
 ### Papers
->**Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space**  
+>#####Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space 
 >**Yunni Qu**, David Yan, Eric  Xing, Fengbo Zheng, Jie Zhang, Liangliang Liu, Gongbo Liang
 
 ### Projects
@@ -13,7 +13,7 @@
 
 
 ### Awards
->**American Statistical Association DataFest @ University of Toronto 2022**  
+>#####American Statistical Association DataFest @ University of Toronto 2022  
 >**Winner** - Best Visualization
 
 ### Relevant Courses
