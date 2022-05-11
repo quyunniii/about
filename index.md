@@ -6,17 +6,22 @@
 ### Papers
 <img src="LDCT.png" alt="drawing" width="200"/>
 
->Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space  
+>**Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space**  
 >Accepted to 44th IEEE International Engineering in Medicine and Biology Conference   
 >**Qu, Yunni**, et al.
 
 ### Projects
+>**Robustness of Segmentation Models for CT Images**(Summer, 2022)
+>**Vehicle Fuel Economy**(Winter, 2021)
+>**Symmetry Based Alzheimer's Diagnose**(Summer, 2021)
+>**Topics in News Networks**(Winter, 2021)
+
 
 
 
 
 ### Awards
->American Statistical Association DataFest @ University of Toronto 2022  
+>**American Statistical Association DataFest** @ University of Toronto 2022  
 >**Winner** - Best Visualization
 
 ### Relevant Courses
