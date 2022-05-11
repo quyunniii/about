@@ -32,9 +32,6 @@
 >
 > - CSC343 Introduction to Databases (Mark Kazakevich)
 > - CSC384 Introduction to Artificial Intelligence (Sheila Mcilraith)
-> - STA450 Statistical Methods for Emerging Infectious Disease Management (Patrick Brown)
-> - STA302 Data Analysis I - R (Katherine Daignault)
-> - STA303 Data Analysis II - R (Liza Bolton)
 > - STA314 Statistical Machine Learning - Python (Chris Maddison)
 
 >**200 Level:**
@@ -45,7 +42,6 @@
 > - JSC270 Data Science I - Python (Anna Goldenberg)
 > - MAT237 Multivariable Calculus (Asif Zaman)
 > - MAT223 Linear Algebra I (Jason Seifken)
-> - STA215 Introduction to Applied Statistics (Katherine Davies)
 > - STA257 Probabilty and Statistics I (Katherine Daignault)
 > - STA261 Probabilty and Statistics II (Robert Zimmerman)
 
