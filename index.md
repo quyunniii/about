@@ -7,6 +7,7 @@
 <img src="LDCT.png" alt="drawing" width="200"/>
 
 >Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space  
+>Accepted to 44th IEEE International Engineering in Medicine and Biology Conference   
 >**Qu, Yunni**, et al.
 
 ### Projects
