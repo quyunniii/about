@@ -1,9 +1,9 @@
 ### Yunni Qu
 
-## About
+# About
 > I'm an Undergraduate student in the Data Science specialist program at the University of Toronto. My goal is to use methods in computer science to solve real world problems. My research interest lies in the intersection of Biomedical Imaging and Computer Vision.
 
-## Papers
+# Papers
 <img src="LDCT.png" alt="drawing" width="200"/>
 
 >**Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space**  
@@ -11,7 +11,7 @@
 >Accepted to 44th IEEE International Engineering in Medicine and Biology Conference   
 
 
-## Projects
+# Projects
 >**Robustness of Segmentation Models for CT Images**(Summer, 2022)  
 >**Vehicle Fuel Economy**(Winter, 2021)  
 >**Symmetry Based Alzheimer's Diagnose**(Summer, 2021)  
@@ -21,11 +21,11 @@
 
 
 
-## Awards
+# Awards
 >**American Statistical Association DataFest** @ University of Toronto 2022  
 >**Winner** - Best Visualization
 
-## MISC.
+# MISC.
 ### Relevant Courses
 (CS, Math, and Stats)
 >**300/400-Level:**
