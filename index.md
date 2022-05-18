@@ -21,7 +21,7 @@
 >**Robustness of Segmentation Models for CT Images**(Summer, 2022)  
 >**Vehicle Fuel Economy**(Winter, 2021)  
 >**Symmetry Based Alzheimer's Diagnose**(Summer, 2021)  
->**Topics in News Networks**(Winter, 2021)  
+>**Analysis on Topics in News Networks with Twitter data**(Winter, 2021)  
 
 
 
