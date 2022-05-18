@@ -28,7 +28,7 @@
 
 
 # Awards
->**American Statistical Association DataFest** @ University of Toronto 2022  **Best Visualization Winner** 
+>**American Statistical Association DataFest** @ University of Toronto 2022  **Best Visualization Winner**  
 >**University of Toronto Faculty of Art and Science Dean's list Scholar** 2020-2022
 
 # MISC.
