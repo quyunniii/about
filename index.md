@@ -4,7 +4,7 @@
 > I'm an Undergraduate student in the Data Science specialist program at the University of Toronto. My goal is to use methods in computer science to solve real world problems. My research interest lies in the intersection of Biomedical Imaging and Computer Vision.
 
 # Papers
-<img src="LDCT.png" alt="drawing" width="400"/>
+<img src="LDCT.png" alt="drawing" width="400" length="200"/>
 
 >**Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space**  
 >>**Qu, Yunni**, David Yan, Eric Xing, Fengbo Zheng, Jie Zhang, Liangliang Liu, Gongbo Liang.  
