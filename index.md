@@ -7,8 +7,14 @@
 <img src="LDCT.png" alt="drawing" width="200"/>
 
 >**Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space**  
->>**Qu, Yunni**, et al.  
->Accepted to 44th IEEE International Engineering in Medicine and Biology Conference   
+>>**Qu, Yunni**, David Yan, Eric Xing, Fengbo Zheng, Jie Zhang, Liangliang Liu, Gongbo Liang.  
+>Accepted to 44TH IEEE International Engineering in Medicine and Biology Conference   
+
+<img src="patter_rec.png" alt="drawing" width="600"/>
+
+>**Neural Network Decision-Making Criteria Consistency Analysis via Inputs Sensitivity**  
+>>Eric Xing, Liangliang Liu, Xin Xing, **Yunni Qu**, Nathan Jacobs and Gongbo Liang.  
+>Accepted to 26TH International Conference on Pattern Recognition
 
 
 # Projects
@@ -22,8 +28,8 @@
 
 
 # Awards
->**American Statistical Association DataFest** @ University of Toronto 2022  
->**Winner** - Best Visualization
+>**American Statistical Association DataFest** @ University of Toronto 2022  **Best Visualization Winner** 
+>**University of Toronto Faculty of Art and Science Dean's list Scholar** 2020-2022
 
 # MISC.
 ### Relevant Courses
