@@ -19,7 +19,7 @@
 
 
 # Projects
->**Robustness of Segmentation Models for MRI Images**(Summer, 2022)  
+>**Robustness of Segmentation Models for MRI Images**@BHK LAB https://www.pmgenomics.ca/bhklab/(Summer, 2022)  
 >**Symmetry Based Alzheimer's Diagnose**(Summer, 2021)  
 >**Analysis on Topics in News Networks with Twitter data**(Winter, 2021)  
 
