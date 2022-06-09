@@ -21,11 +21,15 @@
 # Projects
 <img src="seg_mod.png" alt="drawing" width="600"/>
 
->**Robustness of Segmentation Models for MRI Images** @Princess Margret Cancer Research Center https://www.pmgenomics.ca/bhklab/(Summer, 2022)  
->**Symmetry Based Alzheimer's Diagnose**(Summer, 2021)  
+>**Robustness of 3D Segmentation Models for MRI Images**
+
+<img src="symmetry_model.png" alt="drawing" width="600"/>
+
+>**Symmetry Based Alzheimer's Diagnose**  
 
 <img src="word_cloud.png" alt="drawing" width="600"/>
->**Analysis on Topics in News Networks with Twitter data**(Winter, 2021)  
+
+>**Analysis on Topics in News Networks with Twitter data**
 
 
 # Awards
