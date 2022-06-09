@@ -23,6 +23,8 @@
 
 >**Robustness of Segmentation Models for MRI Images** @Princess Margret Cancer Research Center https://www.pmgenomics.ca/bhklab/(Summer, 2022)  
 >**Symmetry Based Alzheimer's Diagnose**(Summer, 2021)  
+
+<img src="word_cloud.png" alt="drawing" width="600"/>
 >**Analysis on Topics in News Networks with Twitter data**(Winter, 2021)  
 
 
