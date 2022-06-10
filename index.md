@@ -2,7 +2,7 @@
 <img src="yq.jpeg" alt="drawing" width="300"/>
 
 # About
-> I'm an Undergraduate student in the department of Computer Science's Data Science specialist program at the University of Toronto. My goal is to use methods in computer science to solve real world problems. My research interests include: Deep Learning model explanability, Computer Vision.
+> I'm an Undergraduate student in the department of Computer Science's Data Science specialist program at the University of Toronto. My goal is to use methods in computer science to solve real world problems. My research interests include: Deep Learning model explainability, Computer Vision, Medical Imaging.
 
 # Papers
 <img src="LDCT.png" alt="drawing" width="300" height="130"/>
