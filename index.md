@@ -4,7 +4,7 @@
 </p>
 
 
-[img src="y_q.JPG" alt="drawing" width="300"](www.linkedin.com/in/yunni-qu-b7b44b183)
+
 
 
 # About
