@@ -4,6 +4,8 @@
 </p>
 
 
+{% include button.html button_name="My Button" button_class="primary" %}
+
 [Click me](http://www.google.com){: .btn}
 
 
