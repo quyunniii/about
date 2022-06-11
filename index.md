@@ -8,6 +8,7 @@
 
 [Click me](http://www.google.com){: .btn}
 
+[<img src="LDCT.png" width="25"/>](http://www.google.com)
 
 
 # About
