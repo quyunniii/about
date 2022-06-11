@@ -1,6 +1,7 @@
 ### Yunni Qu
+<p align="center">
 <img src="profile.JPG" alt="drawing" width="300"/>
-
+</p>
 # About
 > I'm an Undergraduate student in the department of Computer Science's Data Science specialist program at the University of Toronto. My goal is to use methods in computer science to solve real world problems. My research interests include: Deep Learning model explainability, Computer Vision, Medical Imaging.
 
