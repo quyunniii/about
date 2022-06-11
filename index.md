@@ -3,9 +3,9 @@
 <img src="y_q.JPG" alt="drawing" width="300"/>
 </p>
 
-<p align="center">
+<div align="center">
 [<img src="y_q.JPG" alt="drawing" width="25"/>](http://google.com)
-</p>
+</div>
 
 # About
 > I'm an Undergraduate student in the department of Computer Science's Data Science specialist program at the University of Toronto. My goal is to use methods in computer science to solve real world problems. My research interests include: Deep Learning model explainability, Computer Vision, Medical Imaging.
