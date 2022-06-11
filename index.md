@@ -4,11 +4,9 @@
 </p>
 
 
-<p float="left">
-[<img src="LDCT.png" width="25"/>](http://www.google.com)
 
-[<img src="LDCT.png" width="25"/>](http://www.google.com)
-</p>
+[<img src="LDCT.png" width="25"/>](http://www.google.com)[<img src="LDCT.png" width="25"/>](http://www.google.com)
+
 
 # About
 > I'm an Undergraduate student in the department of Computer Science's Data Science specialist program at the University of Toronto. My goal is to use methods in computer science to solve real world problems. My research interests include: Deep Learning model explainability, Computer Vision, Medical Imaging.
