@@ -1,6 +1,6 @@
 ### Yunni Qu
 <p align="center">
-<img src="profile.JPG" alt="drawing" width="300"/>
+<img src="y_q.JPG" alt="drawing" width="300"/>
 </p>
 
 
