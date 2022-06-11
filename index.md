@@ -4,7 +4,7 @@
 </p>
 
 
-<div align="center">
+<div style="text-align:center">
 [<img src="LDCT.png" width="25"/>](http://www.google.com)[<img src="LDCT.png" width="25"/>](http://www.google.com)
 </div>
 
