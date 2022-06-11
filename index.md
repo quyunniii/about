@@ -7,7 +7,7 @@
 
 
 # About
-> I'm an undergraduate student at the University of Toronto studying Data Science. My goal is to use methods in Computer Science to solve real world problems. My research interests include: Deep Learning model explainability, Computer Vision, Medical Imaging.    
+> I'm an undergraduate student in the department of Computer Science at the University of Toronto studying Data Science. My goal is to use methods in Computer Science to solve real world problems. My research interests include: Deep Learning model explainability, Computer Vision, Medical Imaging.    
 > [<img src="linkedin.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/yunni-qu-b7b44b183)
 
 # Papers
