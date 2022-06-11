@@ -3,9 +3,9 @@
 <img src="y_q.JPG" alt="drawing" width="300"/>
 </p>
 
-<p align="center">
+<div align="center">
 [Link to another page](https://www.google.com/).
-</p>
+</div>
 
 
 # About
