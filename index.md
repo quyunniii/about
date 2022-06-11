@@ -3,7 +3,7 @@
 <img src="y_q.JPG" alt="drawing" width="300"/>
 </p>
 
-[Google](http://google.com)
+[<img src="y_q.JPG" alt="drawing" width="25"/>](http://google.com)
 
 
 # About
