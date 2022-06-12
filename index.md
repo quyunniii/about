@@ -39,7 +39,7 @@
 
 <img src="word_cloud.png" alt="drawing" width="600"/>
 
->**Analysis on Topics in News Networks with Twitter data**
+>**A topic analysis of News Networks with Twitter data**
 >>An almost universal phenomenon today is the rapid communication of information. We are all interested in the latest news around the world, usually obtained from various media networks, but have you ever wondered how they compare? In this project we are interested in finding the differences in topics reported by these news networks and how subjective and polarizing their information is. To do this, we extracted tweets from their official Twitter accounts with Tweetpy API. To get the popular topics for each network, we used the Latent Dirichlet Allocation (LDA) model. This unsupervised model finds the topics for the tweets by backtracking which topic that could generate the tweet.
 
 
