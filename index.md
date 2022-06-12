@@ -20,9 +20,10 @@
 
 <img src="patter_rec.png" alt="drawing" width="600"/>
 
->**Neural Network Decision-Making Criteria Consistency Analysis via Inputs Sensitivity**  
->>Eric Xing, Liangliang Liu, Xin Xing, **Yunni Qu**, Nathan Jacobs and Gongbo Liang.  
+>**"Neural Network Decision-Making Criteria Consistency Analysis via Inputs Sensitivity"**  
+>Eric Xing, Liangliang Liu, Xin Xing, **Yunni Qu**, Nathan Jacobs and Gongbo Liang.  
 >Accepted to 26TH International Conference on Pattern Recognition (ICPR 2022)
+>> Empirically, NNs usually produce a stable overall performance on the same task across multiple training trials. However, the decision-making criteria learned by the training trials are often significantly different, which raises concerns about the correctness and validity of the decision-making criteria. When the criteria are not correct or comprehensive, high-performance models may produce catastrophes leading to immense loss. We believe achieving consistent criteria between different training trials is the first step to discovering the importance of the decision-making criteria of NNs, which is equally important to achieving high performance, if not more. Through this work, we evaluate the decision-making criteria of NNs via inputs sensitivity using feature-attribution explanation methods in combination with computational analysis and clustering analysis.
 
 
 # Projects
