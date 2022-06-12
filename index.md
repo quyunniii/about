@@ -35,10 +35,13 @@
 <img src="symmetry_model.png" alt="drawing" width="600"/>
 
 >**Symmetry Based Alzheimer's Diagnose**  
+>>This project aims to see if the symmetric information of human brain structure can improve Alzheimer's disease diagnosis results. A multibranch 2D CNN is used to predict Alzheimer's disease based on brain tissue MRI of the patients. One branch uses the regular special information of MRI to diagnose AD. The other branch aims to use symmetric information. 
 
 <img src="word_cloud.png" alt="drawing" width="600"/>
 
 >**Analysis on Topics in News Networks with Twitter data**
+>>An almost universal phenomenon today is the rapid communication of information. We are all interested in the latest news around the world, usually obtained from various media networks, but have you ever wondered how they compare? In this project we are interested in finding the differences in topics reported by these news networks and how subjective and polarizing their information is. To do this, we extracted tweets from their official Twitter accounts with Tweetpy API. To get the popular topics for each network, we used the Latent Dirichlet Allocation (LDA) model. This unsupervised model finds the topics for the tweets by backtracking which topic that could generate the tweet.
+
 
 
 # Awards
