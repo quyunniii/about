@@ -30,6 +30,7 @@
 <img src="seg_mod.png" alt="drawing" width="600"/>
 
 >**Robustness of 3D Segmentation Models for MRI Images**
+>>Automated diagnosis using features learned from medical images have become a trend in recent years. Deep learning models, with their impressive  performance on segmentation and classification tasks, are becoming more and more widely used in medical imaging analysis.  While deep learning models are able to achieve accurate results, they are more easily tricked into making predictions based on irrelevant features than human eyes. This makes testing robustness of the models extremely important when it comes to medical image analysis. In this project, the robustness will be benchmarked for deep learning models performing classification and segmentation tasks on MRI and CT datasets. To test the robustness of the model, new data sets will be simulated from the original clean dataset by applying transformations with different severity levels to the clean dataset. DSC and HD95 will be used to evaluate the models.
 
 <img src="symmetry_model.png" alt="drawing" width="600"/>
 
