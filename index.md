@@ -15,13 +15,13 @@
 
 >**Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space**  
 >>**Yunni Qu**, David Yan, Eric Xing, Fengbo Zheng, Jie Zhang, Liangliang Liu, Gongbo Liang.  
-> - Accepted to 44TH IEEE International Engineering in Medicine and Biology Conference (EMBC 2022) 
+>Accepted to 44TH IEEE International Engineering in Medicine and Biology Conference (EMBC 2022) 
 
 <img src="patter_rec.png" alt="drawing" width="600"/>
 
 >**Neural Network Decision-Making Criteria Consistency Analysis via Inputs Sensitivity**  
 >>Eric Xing, Liangliang Liu, Xin Xing, **Yunni Qu**, Nathan Jacobs and Gongbo Liang.  
-> - Accepted to 26TH International Conference on Pattern Recognition (ICPR 2022)
+>Accepted to 26TH International Conference on Pattern Recognition (ICPR 2022)
 
 
 # Projects
