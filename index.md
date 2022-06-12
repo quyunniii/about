@@ -15,7 +15,7 @@
 
 >**Beware the Black-Box of Medical Image Generation: An Uncertainty Analysis by the Learned Feature Space**  
 >>**Yunni Qu**, David Yan, Eric Xing, Fengbo Zheng, Jie Zhang, Liangliang Liu, Gongbo Liang.  
->Accepted to 44TH IEEE International Engineering in Medicine and Biology Conference (EMBC 2022)
+>Accepted to 44TH IEEE International Engineering in Medicine and Biology Conference (EMBC 2022)    
 >As a black-box, DNNs usually produce a relatively stable performance on the same task across multiple training trials. However, the learned feature spaces could be significantly different between training trials. We believe additional insightful analysis, such as uncertainty analysis of the learned feature space, is equally important, if not more. Through this work, we evaluate the learned feature space of multiple U-Net architectures for image generation tasks using computational analysis and clustering analysis methods.
 
 <img src="patter_rec.png" alt="drawing" width="600"/>
