@@ -30,7 +30,7 @@
 # Projects
 <img src="rob_mask.png" alt="drawing" width="600"/>
 
->**Robustness of 3D Segmentation Models for MRI Images** [presentaion slides](https://github.com/quyunniii/Robustness_MRI_segmentation/blob/main/BHKLab_labmeeting_220802%20(1).pdf)
+>**Robustness of 3D Segmentation Models for MRI Images** [presentaion slides](BHKLab_labmeeting_220802 (1).pdf)
 >>Automated diagnosis using features learned from medical images have become a trend in recent years. Deep learning models, with their impressive  performance on segmentation and classification tasks, are becoming more and more widely used in medical imaging analysis.  While deep learning models are able to achieve accurate results, they are more easily tricked into making predictions based on irrelevant features than human eyes. This makes testing robustness of the models extremely important when it comes to medical image analysis. In this project, the robustness was benchmarked for deep learning models performing classification and segmentation tasks on MRI and CT datasets. To test the robustness of the model, new datasets were simulated from the original clean dataset by applying transformations with different severity levels. DSC and HD95 were used to evaluate the models.
 
 <img src="symmetry_model.png" alt="drawing" width="600"/>
