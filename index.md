@@ -32,11 +32,11 @@
 
 >**Robustness of 3D Segmentation Models for MRI Images** [presentaion slides](BHKLab_labmeeting_220802 (1).pdf)
 >>Automated diagnosis using features learned from medical images have become a trend in recent years. Deep learning models, with their impressive  performance on segmentation and classification tasks, are becoming more and more widely used in medical imaging analysis.  While deep learning models are able to achieve accurate results, they are more easily tricked into making predictions based on irrelevant features than human eyes. This makes testing robustness of the models extremely important when it comes to medical image analysis. In this project, the robustness was benchmarked for deep learning models performing classification and segmentation tasks on MRI and CT datasets. To test the robustness of the model, new datasets were simulated from the original clean dataset by applying transformations with different severity levels. DSC and HD95 were used to evaluate the models.
-
+<!-- 
 <img src="symmetry_model.png" alt="drawing" width="600"/>
 
 >**Symmetry Based Alzheimer's Diagnose**  
->>This project aims to see if the symmetric information of human brain structure can improve Alzheimer's disease diagnosis results. A multibranch 2D CNN is used to predict Alzheimer's disease based on brain tissue MRI of the patients. One branch uses the regular special information of MRI to diagnose AD. The other branch aims to use symmetric information. 
+>>This project aims to see if the symmetric information of human brain structure can improve Alzheimer's disease diagnosis results. A multibranch 2D CNN is used to predict Alzheimer's disease based on brain tissue MRI of the patients. One branch uses the regular special information of MRI to diagnose AD. The other branch aims to use symmetric information.  -->
 
 <img src="word_cloud.png" alt="drawing" width="600"/>
 
@@ -53,14 +53,24 @@
 # MISC.
 ### Relevant Courses
 >
-> - CSC494 Independent Project in Computer Science (Benjamin Haibe-Kains)
-> - CSC343 Introduction to Databases (Mark Kazakevich)
-> - CSC384 Introduction to Artificial Intelligence (Sheila Mcilraith)
-> - STA314 Statistical Machine Learning - Python (Chris Maddison)
-> - CSC207 Software Design - Java (Lindsey Shorser)
-> - CSC236 Introduction to Theory of Computation (Francois Pitt)
-> - CSC263 Data Structures & Analysis (Michelle Craig)
-> - JSC270 Data Science I - Python (Anna Goldenberg)
-> - MAT237 Multivariable Calculus (Asif Zaman)
-> - MAT223 Linear Algebra I (Jason Seifken)
+> - CSC495H Independent Project in Computer Science (Leuder Kahrs)
+> - CSC494Y Multidisciplinary Urban Capstone Project (David Roberts)
+> - CSC494H Independent Project in Computer Science (Benjamin Haibe-Kains)
+> - CSC384H Introduction to Artificial Intelligence (Sheila Mcilraith)
+> - CSC343H Introduction to Databases (Mark Kazakevich)
+> - JSC370H Data Science II
+> - STA314H Statistical Machine Learning - Python (Chris Maddison)
+> - STA303H Methods of Data Analysis II
+> - STA302H Methods of Data Analysis I
+> - CSC207H Software Design - Java (Lindsey Shorser)
+> - CSC209H Software Tools and Systems Programming - C 
+> - CSC258H Computer Organization (Mario Badr)
+> - CSC236H Introduction to Theory of Computation (Francois Pitt)
+> - CSC263H Data Structures & Analysis (Michelle Craig)
+> - JSC270H Data Science I - Python (Anna Goldenberg)
+> - STA261H Probabilty and Statistics II
+> - STA257H Probabilty and Statistics I
+> - STA215H Inroduction to Applied Statistics
+> - MAT237Y Multivariable Calculus (Asif Zaman)
+> - MAT223H Linear Algebra I (Jason Seifken)
 
