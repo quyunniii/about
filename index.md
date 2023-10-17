@@ -7,7 +7,7 @@
 
 
 # About
-> I'm an undergraduate student at the University of Toronto studying Computer Science and Data Science. My goal is to use methods in Computer Science to solve real world problems. My research interests include: Deep Learning model explainability, Computer Vision, Medical Imaging.    
+> I'm a CS phd student at UNC supervised by Junier Oliva. I'm currently working on developing general ML methods. Previously, I was an undergraduate student at the University of Toronto studying Computer Science and Data Science. 
 > [<img src="linkedin.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/yunni-qu-b7b44b183)
 > [<img src="cv.png" alt="drawing" width="40"/>](CV_220816.pdf)
 
@@ -52,8 +52,11 @@
 
 # MISC.
 ### Relevant Courses
->
-> - CSC495H Independent Project in Computer Science (Leuder Kahrs)
+> UNC
+> - COMP750
+> - COMP755
+> - COMP790
+> University of Toronto
 > - CSC494Y Multidisciplinary Urban Capstone Project (David Roberts)
 > - CSC494H Independent Project in Computer Science (Benjamin Haibe-Kains)
 > - CSC384H Introduction to Artificial Intelligence (Sheila Mcilraith)
