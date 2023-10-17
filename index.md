@@ -56,6 +56,7 @@
 > - COMP750
 > - COMP755
 > - COMP790
+> 
 > University of Toronto
 > - CSC494Y Multidisciplinary Urban Capstone Project (David Roberts)
 > - CSC494H Independent Project in Computer Science (Benjamin Haibe-Kains)
